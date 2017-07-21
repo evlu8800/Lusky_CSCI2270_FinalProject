@@ -1,1 +1,3 @@
 # Lusky_CSCI2270_FinalProject
+
+This is going to be a motion planning program.  The graph will be created by uniform discretation of a 2d planar region.  All weights will be 1 except for edges and obstacles which will be set to max int.  Dijkstra's algorithm will be used to find the shortest path to some point on the 2d plane while navigating obstacles.  I'm not really sure where the second data structure will come from but I'm sure I'll need something. Maybe a self implemented queue to hold the shorest path nodes and pass them to a graphical representation.  I will be attempting to use SDL2 for graphics.
