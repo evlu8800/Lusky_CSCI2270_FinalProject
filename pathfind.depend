@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1500670639 source:/home/evan/Desktop/projects/pathfind/01_hello_SDL.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
+1501189212 source:/home/evan/Desktop/projects/pathfind/pathfind.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+
+1501193970 source:/home/evan/Desktop/Lusky_CSCI2270_FinalProject/pathfind.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+
